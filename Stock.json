@@ -1,0 +1,36 @@
+{
+  "SKU": {
+    "prod-1": {
+      "Goa": {
+        "Amount": "10"
+      },
+      "Mumbai": {
+        "Amount": "4"
+      },
+      "Moradabad": {
+        "Amount": "4"
+      }
+    },
+    "prod-2": {
+      "Goa": {
+        "Amount": "12"
+      },
+      "Mumbai": {
+        "Amount": "4"
+      }
+    },
+    "prod-3": {
+      "Goa": {
+        "Amount": "5"
+      },
+      "Mumbai": {
+        "Amount": "4"
+      }
+    },
+    "prod-4": {
+      "Moradabad": {
+        "Amount": "5"
+      }
+    }
+  }
+}
